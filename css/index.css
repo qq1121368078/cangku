@@ -1,3 +1,6 @@
 div{
- color:red;
+	color: red;
+	font-size: 20px;
+	line-height: 200px;
+	text-align: center;
 }
